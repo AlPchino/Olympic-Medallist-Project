@@ -1,5 +1,4 @@
-# Projects
+# Olympic Medallist Project
 
-Below is the link to the Exploratory Data Analysis on 2012 Olympic Medallist Data
-
-[random](olympic-medallist-visuals.netlify.app)
+Below is a link to the exploratory Data visualiazation on the 2012 Olmympic medallists in Athletics
+[Olympic_Medallist_Project](https://olympic-medallist-visuals.netlify.app/)
